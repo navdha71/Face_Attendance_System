@@ -1,4 +1,7 @@
-opencv-python
+opencv-python 
 tensorflow
 numpy
 pandas
+python
+pip install numpy==1.26.4 pandas scikit-learn matplotlib
+pip install tensorflow==2.15.0 keras==2.15.0
